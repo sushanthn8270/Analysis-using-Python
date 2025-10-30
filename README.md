@@ -16,7 +16,4 @@ The goal is to derive insights into customer behavior, product performance, and 
 - Jupyter Notebook  
 - SQL (if applicable, for querying database tables)  
 
-##  Getting Started
-1. Clone the repository:
-   git clone https://github.com/your-username/sales-database.git
-   cd sales-database
+
